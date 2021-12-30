@@ -1,3 +1,0 @@
-# ZOO
-
-Pokusy s Gitem
