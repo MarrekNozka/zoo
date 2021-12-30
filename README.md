@@ -1,3 +1,3 @@
 # ZOO
 
-Pokusy s Gite
+Pokusy s Gitem
